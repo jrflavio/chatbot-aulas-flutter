@@ -2,25 +2,22 @@
 
 Aplicativo de chatbot
 
-Tutorial de criação deste app: http://bit.ly/2mDfTBB
-
 <p align="center">
-    <img src="https://miro.medium.com/max/1440/1*2JCTeW4Use_q4OmA1gnC1w.png" width="800"/>
+    <img src="https://github.com/parklez/chatbot-aulas-flutter/blob/master/screenshots/honestwork.png" height="400"/>
 </p>
 
-## Como clonar e importar
+## Alunos
 
--   Faça um fork do projeto
--   Abra o terminal do Visual Studio Code
--   Digite (troque kleberandrade pelo nome do seu usuários): git clone https://github.com/kleberandrade/chatbot-aulas-flutter chatbot
+-   Flávio Júnior - 0040481821004
+-   Gustavo Messias - 0040481821039
 
 ## Desafios
 
-- Melhorar a exibição das mensagens, aplicando um Clippy no estilo Whatsapp (se quiser, pode utilizar o [clippy_flutter](https://pub.dev/packages/clippy_flutter))
-- Adicionar data/hora de recebimento ou envio das mensagens ([DateTime class](https://api.flutter.dev/flutter/dart-core/DateTime-class.html))
-- Fazer o TextField de envio de mensagens ser igual ao do Whatsapp (borda redonda)
-- Criar um novo projeto de chatbot para um problema que deseja resolver e adicionar pelo menos 10 Intents
-- Utilizar pelo menos 1 Entities no DialogFlow ([tutorial de como usar](https://www.youtube.com/watch?v=3ePcMGW5cjo))
+- [x] Melhorar a exibição das mensagens, aplicando um Clippy no estilo Whatsapp (se quiser, pode utilizar o [clippy_flutter](https://pub.dev/packages/clippy_flutter))
+- [x] Adicionar data/hora de recebimento ou envio das mensagens ([DateTime class](https://api.flutter.dev/flutter/dart-core/DateTime-class.html))
+- [x] Fazer o TextField de envio de mensagens ser igual ao do Whatsapp (borda redonda)
+- [x] Criar um novo projeto de chatbot para um problema que deseja resolver e adicionar pelo menos 10 Intents - (type in "help" for ice cream related stuff)
+- [x] Utilizar pelo menos 1 Entities no DialogFlow ([tutorial de como usar](https://www.youtube.com/watch?v=3ePcMGW5cjo)) - ("I want Vanilla/Cream ice cream")
 
 ## Licença
 

@@ -21,7 +21,9 @@ dependencies:
     sdk: flutter
     
   cupertino_icons: ^0.1.2
-  flutter_dialogflow: ^0.1.0
+  flutter_dialogflow: ^0.1.2
+  clippy_flutter: ^1.1.0
+  intl: ^0.16.0
 
 dev_dependencies:
   flutter_test:
